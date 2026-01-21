@@ -1,0 +1,6 @@
+<variable_name>.shapesize(1,5,10) #to alter the size of the pointer
+<variable_name>.pensize(10) #to alter the thickness of the pointer
+turtle.title("Name") #to name the pop screen of pattern
+<variable_name>.pendown() #to return the cursor after penup() command
+<variable_name>.penup() #to move the cursor without drawing anything
+<variable_name>.hideturtle() #to hide the cursor
