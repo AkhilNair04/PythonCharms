@@ -4,3 +4,4 @@ turtle.title("Name") #to name the pop screen of pattern
 <variable_name>.pendown() #to return the cursor after penup() command
 <variable_name>.penup() #to move the cursor without drawing anything
 <variable_name>.hideturtle() #to hide the cursor
+<variable_name>.goto (x,y coordinate values) #to move the cursor to specific location
