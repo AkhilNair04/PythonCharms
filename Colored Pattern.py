@@ -1,5 +1,6 @@
 import turtle
 turtle.bgcolor("#B80F55")
+turtle.title("Pattern")
 hexa= turtle.Turtle()
 rexa=hexa.clone()
 nexa=hexa.clone()
@@ -25,3 +26,4 @@ hexa.end_fill()
 rexa.end_fill()
 nexa.end_fill()
 mexa.end_fill()
+turtle.done()
